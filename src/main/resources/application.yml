@@ -1,0 +1,6 @@
+org:
+  j2os:
+    redis:
+      password: myjava123
+      host: localhost
+      port: 6379
